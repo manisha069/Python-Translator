@@ -2,6 +2,7 @@
 ## Overview
 
 This is a python script that uses translator module powered by Google and translates words from a language of user's choice to another language of user's choice.
+Made with  library.
 
 ## Contributor
 - [Manisha Gupta](https://manisha069.github.io/)
